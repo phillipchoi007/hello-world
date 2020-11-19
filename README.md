@@ -1,4 +1,3 @@
-# hello-world
-new repository
+# kappa
+library('irr')
 
-Trying to learn github 
