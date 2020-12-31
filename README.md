@@ -1,3 +1,3 @@
-# kappa
+
 library('irr')
 
